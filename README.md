@@ -41,14 +41,13 @@ I am a Backend Developer from Armenia 🇦🇲
 ### 🛠️ Tools :
 <div>
   <div>
-    <img src="https://seeklogo.com/images/P/phpstorm-logo-220B633CDA-seeklogo.com.png" title="PHPStorm" alt="PHPStorm" width="40" height="40"/>&nbsp;
-    <img src="https://seeklogo.com/images/W/webstorm-logo-691E749F21-seeklogo.com.png" title="WebStorm" alt="WebStorm" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/WinSCP_Logo.png?20121019215322" title="WinSCP" alt="WinSCP" width="40" height="40"/>&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" title="PS" alt="PS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" title="Composer" alt="Composer" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" title="Composer" alt="Composer" width="40" height="40"/>&nbsp;
+    <img src="https://seeklogo.com/images/P/phpstorm-logo-220B633CDA-seeklogo.com.png" title="PHPStorm" alt="PHPStorm" width="40" height="40"/>&nbsp;
+    <img src="https://seeklogo.com/images/W/webstorm-logo-691E749F21-seeklogo.com.png" title="WebStorm" alt="WebStorm" width="40" height="40"/>&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/WinSCP_Logo.png?20121019215322" title="WinSCP" alt="WinSCP" width="40" height="40"/>&nbsp;
   </div>
 <div>
     <img src="https://www.svgrepo.com/download/354202/postman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
