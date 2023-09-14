@@ -20,7 +20,6 @@
 
 ---
 
-
 ### :woman_technologist: About Me :
 I am a Backend Developer from Armenia 🇦🇲
 
@@ -81,3 +80,9 @@ I am a Backend Developer from Armenia 🇦🇲
   <img src="https://brandslogos.com/wp-content/uploads/thumbs/aws-ec2-logo-vector.svg" title="EC2" alt="EC2" width="40" height="40"/>&nbsp;
   <img src="https://cdn.freebiesupply.com/logos/large/2x/aws-iam-logo-png-transparent.png" title="IAM" alt="IAM" width="20" height="40"/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=davitgrigoryandeveloper&theme=dark&background=000000)](https://git.io/streak-stats)
