@@ -1,7 +1,27 @@
-<h1 align="center">Hi 👋 I'm David, a passionate Back End developer always ready for new challenges.</h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="150"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/david-95-grigoryan/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.facebook.com/davidgrigoryan95">
+      <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+    </a>
+    <a href="https://github.com/davitgrigoryandeveloper">
+      <img src="https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=tsarukyana&style=flat-square&color=blue" alt=""/>
+  <h1>
+    Hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
 
 ---
-### :man_technologist: About me:
+
+
+### :woman_technologist: About Me :
 I am a Backend Developer from Armenia 🇦🇲
 
 - :telescope: I work as a Backend Developer, making valuable contributions to web development projects.
