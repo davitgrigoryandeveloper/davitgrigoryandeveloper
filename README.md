@@ -1,38 +1,64 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="150"/>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/david-95-grigoryan/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.facebook.com/davidgrigoryan95">
-      <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-    </a>
-    <a href="https://github.com/davitgrigoryandeveloper">
-      <img src="https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=davitgrigoryandeveloper&style=flat-square&color=blue" alt=""/>
-  <h1>
-    Hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
+# 👨‍💻 Davit Grigoryan – Full Stack Developer | Test Automation Engineer
+
+🚀 Passionate **Full Stack Developer** with **5+ years** of experience in **PHP, Python, JavaScript**, and **Test Automation**. Specialized in building scalable web applications, automation frameworks, and performance testing to ensure software reliability and efficiency.
+
+## 🔥 About Me
+- **Tech Stack:** PHP, Python, JavaScript, HTML/CSS, OOP, MVC, SSH
+- **Automation & Testing:** Selenium (POM), PyTest, JMeter (Performance Testing), Postman (API Testing), Allure Report
+- **Databases:** SQL, MySQL, Redis, SQLite
+- **Version Control & CI/CD:** Git, GitHub, GitLab, BitBucket, GitHub Pages
+- **Development Tools:** Docker, JIRA, PHP Storm, PyCharm, Aqua
+- **Server & Deployment:** Apache, Nginx, LAMP Stack
+- **Agile Development & Performance Optimization**
+
+📌 Dedicated to delivering **high-quality, test-driven** applications while integrating automation solutions for efficiency. Focused on **performance, security, and maintainability** in software development.
 
 ---
 
-### :woman_technologist: About Me :
-I am a Backend Developer from Armenia 🇦🇲
+## 💡 What I Do
+✅ Full Stack Web Development  
+✅ **Automation Testing (UI & API)** with Selenium & PyTest  
+✅ Performance Testing with JMeter  
+✅ **API Testing** with Postman  
+✅ Database Optimization & Query Performance  
+✅ Agile Methodologies & DevOps  
 
-- :telescope: I work as a Backend Developer, making valuable contributions to web development projects.
-- :dart: I have experience in the Laravel framework and possess a strong understanding of Object-Oriented Programming (OOP) principles and the Model-View-Controller (MVC) design pattern.
-- :rocket: I have the ability to work with a wide range of technologies, enabling me to find innovative solutions for challenging tasks and effectively manage databases.
-<!-- - :arrow_forward: Founder and content creator at [IT Motion](https://www.youtube.com/channel/UCFL-9mlMhhnJ-thUv0JKUtQ) youtube channel -->
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-95-grigoryan/)
+---
 
-![davitgrigoryandeveloper's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davitgrigoryandeveloper&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+## 💼 Notable Projects
+### **eLeap LMS**
+**Tech Stack:** PHP, Laravel, Docker, JavaScript, React.js, PWA, SCSS, AntD  
+**Role:** Back-end Developer & Automation Engineer  
+✔ Developed back-end functionalities and implemented **automation testing**.
 
---- 
-### :computer: Languages, Frameworks, and Libraries:
+### **AmsterdamGold**
+**Tech Stack:** PHP, Laravel, Laravel Livewire, React.js  
+**Role:** Back-end Developer  
+✔ Led the **architecture design, feature implementation, and code review**.
+
+### **eLeap PSP**
+**Tech Stack:** PHP, Laravel, React.js  
+**Role:** Back-end Developer  
+✔ Integrated **automation testing** and improved the system’s performance.
+
+### **Worky**
+**Tech Stack:** PHP, Laravel, React.js  
+**Role:** Back-end Developer  
+✔ Developed APIs and optimized business workflows for **efficient work management**.
+
+### **Subject Selection Online (SSO)**
+**Tech Stack:** PHP, Laravel, Redis, Cron Jobs  
+**Role:** Back-end Developer  
+✔ Designed and implemented **database optimizations** for faster subject selection.
+
+---
+
+## 📫 Contact Me
+
+- **Email:** davit.grigoryan.up@gmail.com
+
+🚀 **Let’s collaborate and build high-performance applications together!** 🚀
+
 
 <div>
   
